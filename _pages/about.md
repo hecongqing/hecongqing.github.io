@@ -22,21 +22,21 @@ Work experience
 
 Publications
 ======
-* ***Congqing He***, Tienping Tan, Sheng Xue and Yanyu Tan. Simulating Judicial Trial Logic: Dual Residual Cross-Attention Learning for Predicting Legal Judgment in Long Documents.  Expert Systems with Applications (**ESWA**). 
+* ***Congqing He***, Tienping Tan, Sheng Xue and Yanyu Tan. Simulating Judicial Trial Logic: Dual Residual Cross-Attention Learning for Predicting Legal Judgment in Long Documents.  Expert Systems with Applications (**ESWA**). [Paper](https://doi.org/10.1016/j.eswa.2024.125462)
 
-* Haichuan Hu, Ye Shang, Guolin Xu, ***Congqing He***, Quanjun Zhang. Can GPT-O1 Kill All Bugs? An Evaluation of GPT-Family LLMs on QuixBugs. PrePrint. 
+* Haichuan Hu, Ye Shang, Guolin Xu, ***Congqing He***, Quanjun Zhang. Can GPT-O1 Kill All Bugs? An Evaluation of GPT-Family LLMs on QuixBugs. PrePrint. [Paper](https://arxiv.org/abs/2409.10033)
 
-* Hao Zhang, Yu-N Cheah, ***Congqing He***, Feifan Yi. An Instruction Tuning-Based Contrastive Learning Framework for Aspect Sentiment Quad Prediction with Implicit Aspects and Opinions.  Findings of the Association for Computational Linguistics: EMNLP 2024 (**Findings of EMNLP 2024**). 
+* Hao Zhang, Yu-N Cheah, ***Congqing He***, Feifan Yi. An Instruction Tuning-Based Contrastive Learning Framework for Aspect Sentiment Quad Prediction with Implicit Aspects and Opinions.  Findings of the Association for Computational Linguistics: EMNLP 2024 (**Findings of EMNLP 2024**). [Paper](https://aclanthology.org/2024.findings-emnlp.453.pdf)
 
-* ***Congqing He***,  Tienping Tan, Xiaobo Zhang, and Sheng Xue. Explaining legal judgments: A multitask learning framework for enhancing factual consistency in rationale generation.  Journal of King Saud University-Computer and Information Sciences (**JKSUCIS**). 
+* ***Congqing He***,  Tienping Tan, Xiaobo Zhang, and Sheng Xue. Explaining legal judgments: A multitask learning framework for enhancing factual consistency in rationale generation.  Journal of King Saud University-Computer and Information Sciences (**JKSUCIS**). [Paper](https://doi.org/10.1016/j.jksuci.2023.101868)
 
-* ***Congqing He***, Tienping Tan, Sheng Xue and Yanyu Tan.Knowledge-enriched Multi-Cross Attention Network for Legal Judgment Prediction.  IEEE ACCESS. 
+* ***Congqing He***, Tienping Tan, Sheng Xue and Yanyu Tan.Knowledge-enriched Multi-Cross Attention Network for Legal Judgment Prediction.  IEEE ACCESS. [Paper](https://doi.org/10.1109/ACCESS.2023.3305259)
 
-* Yuquan Le, ***Congqing He****, Meng Chen, Youzheng Wu, and Bowen Zhou.  Learning to Predict Charges for Legal Judgment via Self-Attentive Capsule Network.  The 24th European Conference on Artificial Intelligence (**ECAI2020**). 
+* Yuquan Le, ***Congqing He****, Meng Chen, Youzheng Wu, and Bowen Zhou.  Learning to Predict Charges for Legal Judgment via Self-Attentive Capsule Network.  The 24th European Conference on Artificial Intelligence (**ECAI2020**). [Paper](https://ecai2020.eu/papers/98_paper.pdf)
 
-* ***Congqing He***, Li Peng, Yuquan Le, and Jiawei He. Dynamically Weighted Multi-View Semi-Supervised Learning for CAPTCHA.  The 23th  Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD 2019**). 
+* ***Congqing He***, Li Peng, Yuquan Le, and Jiawei He. Dynamically Weighted Multi-View Semi-Supervised Learning for CAPTCHA.  The 23th  Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD 2019**). [Paper](https://link.springer.com/chapter/10.1007/978-3-030-16145-3_27)
 
-* ***Congqing He***,  Li Peng, Yuquan Le, Jiawei He, and Xiangyu Zhu. SECaps: A Sequence Enhanced Capsule Model for Charge Prediction.  The 28th International Conference on Artificial Neural Networks (**ICANN 2019**). 
+* ***Congqing He***,  Li Peng, Yuquan Le, Jiawei He, and Xiangyu Zhu. SECaps: A Sequence Enhanced Capsule Model for Charge Prediction.  The 28th International Conference on Artificial Neural Networks (**ICANN 2019**). [Paper](https://link.springer.com/chapter/10.1007/978-3-030-30490-4_19)
 
 
 
