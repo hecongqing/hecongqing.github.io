@@ -42,7 +42,7 @@ Publications
 
 Selected competitions and awards
 ======
-* Our team won the **2rd** place in  (Legal Case Retrieval) of Challenge of AI in Law 2023. 
+* Our team won the **2nd** place in  (Legal Case Retrieval) of Challenge of AI in Law 2023. 
 * Our team won the **3rd** place in  (Consumer Event-Cause Extraction) of IEEE ICDM 2020. [Working Notes](https://arxiv.org/abs/2110.15722)
 * Our team won the **2nd** place in  (Citation Intent Recognition) of Microsoft DigSci Competition. 
 * Our team won the **3rd** place in  (Similar Case Matching) of CCL 2019 & Challenge of AI in Law. 
