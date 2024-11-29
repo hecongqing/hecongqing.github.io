@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently pursuing a Ph.D. at Universiti Sains Malaysia, focusing on deep learning, natural language processing, information retrieval, and their applications in AI law.
+I am currently pursuing a Ph.D. at Universiti Sains Malaysia, focusing on deep learning, natural language processing, information retrieval, and their applications in AI4law.
 
 
 Education
@@ -32,11 +32,12 @@ Publications
 
 * ***Congqing He***, Tienping Tan, Sheng Xue and Yanyu Tan.Knowledge-enriched Multi-Cross Attention Network for Legal Judgment Prediction.  IEEE ACCESS. 
 
-* Yuquan Le, ***Congqing He***, Meng Chen, Youzheng Wu, and Bowen Zhou.  Learning to Predict Charges for Legal Judgment via Self-Attentive Capsule Network.  The 24th European Conference on Artificial Intelligence (**ECAI2020**). 
+* Yuquan Le, ***Congqing He****, Meng Chen, Youzheng Wu, and Bowen Zhou.  Learning to Predict Charges for Legal Judgment via Self-Attentive Capsule Network.  The 24th European Conference on Artificial Intelligence (**ECAI2020**). 
 
 * ***Congqing He***, Li Peng, Yuquan Le, and Jiawei He. Dynamically Weighted Multi-View Semi-Supervised Learning for CAPTCHA.  The 23th  Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD 2019**). 
 
 * ***Congqing He***,  Li Peng, Yuquan Le, Jiawei He, and Xiangyu Zhu. SECaps: A Sequence Enhanced Capsule Model for Charge Prediction.  The 28th International Conference on Artificial Neural Networks (**ICANN 2019**). 
+
 
 
 Selected competitions and awards
