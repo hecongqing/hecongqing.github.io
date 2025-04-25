@@ -1,64 +1,53 @@
 ---
 layout: archive
-title: "CV"
+title: "About me"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+I am currently pursuing a Ph.D. at Universiti Sains Malaysia, focusing on deep learning, natural language processing, information retrieval, and their applications in AI law. My research centers on the intersection of deep learning, natural language processing, and the legal domain
+
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 03.2021-present Ph.D. candidate, School of Computer Science, Universiti Sains Malaysia, Malaysia.
+* 09.2016-06.2019 M.S.,  College of Computer Science and Electroic Engineering, Hunan University, China.
+* 09.2012-06.2016 B.S., School of Computer Science and Technology, Hefei Normal University, China.
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 06.2019-10.2020, Algorithm Engineer. JD, Beijing, China.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* ***Congqing He***, Tienping Tan, Sheng Xue and Yanyu Tan. Simulating Judicial Trial Logic: Dual Residual Cross-Attention Learning for Predicting Legal Judgment in Long Documents.  Expert Systems with Applications (**ESWA**). 
+
+* Hao Zhang, Yu-N Cheah, ***Congqing He***, Feifan Yi. An Instruction Tuning-Based Contrastive Learning Framework for Aspect Sentiment Quad Prediction with Implicit Aspects and Opinions.  Findings of the Association for Computational Linguistics: EMNLP 2024 (**Findings of EMNLP 2024**). 
+
+* ***Congqing He***, Tienping Tan, Sheng Xue and Yanyu Tan.Knowledge-enriched Multi-Cross Attention Network for Legal Judgment Prediction..  IEEE ACCESS. 
+
+* ***Congqing He***,  Tienping Tan, Xiaobo Zhang, and Sheng Xue. Explaining legal judgments: A multitask learning framework for enhancing factual consistency in rationale generation.  Journal of King Saud University-Computer and Information Sciences (**JKSUCIS**). 
+
+* Yuquan Le, ***Congqing He***, Meng Chen, Youzheng Wu, and Bowen Zhou.  Learning to Predict Charges for Legal Judgment via Self-Attentive Capsule Network.  The 24th European Conference on Artificial Intelligence (**ECAI2020**). 
+
+* ***Congqing He***, Li Peng, Yuquan Le, and Jiawei He. Dynamically Weighted Multi-View Semi-Supervised Learning for CAPTCHA.  The 23th  Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD 2019**). 
+
+* ***Congqing He***,  Li Peng, Yuquan Le, Jiawei He, and Xiangyu Zhu. SECaps: A Sequence Enhanced Capsule Model for Charge Prediction.  The 28th International Conference on Artificial Neural Networks (**ICANN 2019**). 
+
+
+Selected competitions and awards
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* Our team won the **2rd** place in  (Legal Case Retrieval) of Challenge of AI in Law 2023. 
+* Our team won the **3rd** place in  (Consumer Event-Cause Extraction) of IEEE ICDM 2020. [Working Notes][Working Notes](https://arxiv.org/abs/2110.15722)
+* Our team won the **2nd** place in  (Citation Intent Recognition) of Microsoft DigSci Competition. 
+* Our team won the **3rd** place in  (Similar Case Matching) of CCL 2019 & Challenge of AI in Law. 
+
+
   
-Teaching
+ACADEMIC SERVICES
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Information Processing & Management (Reviewer)
+* Humanities & Social Sciences Communications (Reviewer)

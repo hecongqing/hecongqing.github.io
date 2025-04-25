@@ -24,7 +24,7 @@ Publications
 ======
 * ***Congqing He***, Tienping Tan, Sheng Xue and Yanyu Tan. Simulating Judicial Trial Logic: Dual Residual Cross-Attention Learning for Predicting Legal Judgment in Long Documents.  Expert Systems with Applications (**ESWA**). [Paper](https://doi.org/10.1016/j.eswa.2024.125462)
 
-* Haichuan Hu, Ye Shang, Guolin Xu, ***Congqing He***, Quanjun Zhang. Can GPT-O1 Kill All Bugs? An Evaluation of GPT-Family LLMs on QuixBugs. PrePrint. [Paper](https://arxiv.org/abs/2409.10033)
+* Haichuan Hu, Ye Shang, Guolin Xu, ***Congqing He***, Quanjun Zhang. Can GPT-O1 Kill All Bugs? An Evaluation of GPT-Family LLMs on QuixBugs. (**APR@ICSE2025**). [Paper](https://arxiv.org/abs/2409.10033)
 
 * Hao Zhang, Yu-N Cheah, ***Congqing He***, Feifan Yi. An Instruction Tuning-Based Contrastive Learning Framework for Aspect Sentiment Quad Prediction with Implicit Aspects and Opinions.  Findings of the Association for Computational Linguistics: EMNLP 2024 (**Findings of EMNLP 2024**). [Paper](https://aclanthology.org/2024.findings-emnlp.453.pdf)
 
@@ -51,5 +51,10 @@ Selected competitions and awards
   
 Academic services
 ======
-* Information Processing & Management (Reviewer)
-* Humanities & Social Sciences Communications (Reviewer)
+* Reviewer, Information Processing & Management
+* Reviewer, Humanities & Social Sciences Communications
+* Reviewer, Journal of King Saud University – Computer and Information Sciences
+* Reviewer, International Journal of Machine Learning and Cybernetics
+* Reviewer, Engineering Research Express
+
+
