@@ -26,7 +26,7 @@ Publications
 
 * [SCNet: Few-Shot Image Classification via Self-Correlational and Cross Spatial-Correlation Attention](https://doi.org/10.1016/j.jestch.2025.102075), **Congqing He**, Ding Xu, Ke Gong, Fusen Guo, Dapeng Wei. *Engineering Science and Technology, an International Journal*, 2025. (JCR Q1, IF: 5.1)
 
-* [Can GPT-O1 Kill All Bugs? An Evaluation of GPT-Family LLMs on QuixBugs](https://arxiv.org/abs/2409.10033), Haichuan Hu, Ye Shang, Guolin Xu, **Congqing He**, Quanjun Zhang. (*APR\@ICSE2025*, ICSE2025 Workshop)
+* [Can GPT-O1 Kill All Bugs? An Evaluation of GPT-Family LLMs on QuixBugs](https://arxiv.org/abs/2409.10033), Haichuan Hu, Ye Shang, Guolin Xu, **Congqing He**, Quanjun Zhang. (*APR@ICSE2025*, ICSE2025 Workshop)
 
 * [An Instruction Tuning-Based Contrastive Learning Framework for Aspect Sentiment Quad Prediction with Implicit Aspects and Opinions](https://doi.org/10.18653/v1/2024.findings-emnlp.453), Hao Zhang, Yu-N Cheah, **Congqing He**, Feifan Yi. *EMNLP 2024 Findings* (CCF B)
 
