@@ -22,21 +22,26 @@ Work experience
 
 Publications
 ======
-* ***Congqing He***, Tienping Tan, Sheng Xue and Yanyu Tan. Simulating Judicial Trial Logic: Dual Residual Cross-Attention Learning for Predicting Legal Judgment in Long Documents.  Expert Systems with Applications (**ESWA**). [Paper](https://doi.org/10.1016/j.eswa.2024.125462)
+* [Simulating Judicial Trial Logic: Dual Residual Cross-Attention Learning for Predicting Legal Judgment in Long Documents](https://doi.org/10.1016/j.eswa.2024.125462), **Congqing He**, Tienping Tan, Sheng Xue, Yanyu Tan. *Expert Systems with Applications* (ESWA), 2025. (JCR Q1, IF: 7.5)
 
-* Haichuan Hu, Ye Shang, Guolin Xu, ***Congqing He***, Quanjun Zhang. Can GPT-O1 Kill All Bugs? An Evaluation of GPT-Family LLMs on QuixBugs. (**APR@ICSE2025**). [Paper](https://arxiv.org/abs/2409.10033)
+* [SCNet: Few-Shot Image Classification via Self-Correlational and Cross Spatial-Correlation Attention](https://doi.org/10.1016/j.jestch.2025.102075), **Congqing He**, Ding Xu, Ke Gong, Fusen Guo, Dapeng Wei. *Engineering Science and Technology, an International Journal*, 2025. (JCR Q1, IF: 5.1)
 
-* Hao Zhang, Yu-N Cheah, ***Congqing He***, Feifan Yi. An Instruction Tuning-Based Contrastive Learning Framework for Aspect Sentiment Quad Prediction with Implicit Aspects and Opinions.  Findings of the Association for Computational Linguistics: EMNLP 2024 (**Findings of EMNLP 2024**). [Paper](https://aclanthology.org/2024.findings-emnlp.453.pdf)
+* [Can GPT-O1 Kill All Bugs? An Evaluation of GPT-Family LLMs on QuixBugs](https://arxiv.org/abs/2409.10033), Haichuan Hu, Ye Shang, Guolin Xu, **Congqing He**, Quanjun Zhang. (*APR\@ICSE2025*, ICSE2025 Workshop)
 
-* ***Congqing He***,  Tienping Tan, Xiaobo Zhang, and Sheng Xue. Explaining legal judgments: A multitask learning framework for enhancing factual consistency in rationale generation.  Journal of King Saud University-Computer and Information Sciences (**JKSUCIS**). [Paper](https://doi.org/10.1016/j.jksuci.2023.101868)
+* [An Instruction Tuning-Based Contrastive Learning Framework for Aspect Sentiment Quad Prediction with Implicit Aspects and Opinions](https://doi.org/10.18653/v1/2024.findings-emnlp.453), Hao Zhang, Yu-N Cheah, **Congqing He**, Feifan Yi. *EMNLP 2024 Findings* (CCF B)
 
-* ***Congqing He***, Tienping Tan, Sheng Xue and Yanyu Tan.Knowledge-enriched Multi-Cross Attention Network for Legal Judgment Prediction.  IEEE ACCESS. [Paper](https://doi.org/10.1109/ACCESS.2023.3305259)
+* [Explaining legal judgments: A multitask learning framework for enhancing factual consistency in rationale generation](https://doi.org/10.1016/j.jksuci.2023.101868), **Congqing He**, Tienping Tan, Sheng Xue, Yanyu Tan. *Journal of King Saud University-Computer and Information Sciences* (JKSUCIS), 2023. (JCR Q1, IF: 6.9)
 
-* Yuquan Le, ***Congqing He****, Meng Chen, Youzheng Wu, and Bowen Zhou.  Learning to Predict Charges for Legal Judgment via Self-Attentive Capsule Network.  The 24th European Conference on Artificial Intelligence (**ECAI2020**). [Paper](https://ecai2020.eu/papers/98_paper.pdf)
+* [Knowledge-enriched Multi-Cross Attention Network for Legal Judgment Prediction](https://doi.org/10.1109/ACCESS.2023.3305259), **Congqing He**, Tienping Tan, Xiaobo Zhang, Sheng Xue. *IEEE ACCESS*, 2023. (JCR Q2, IF: 3.9)
 
-* ***Congqing He***, Li Peng, Yuquan Le, and Jiawei He. Dynamically Weighted Multi-View Semi-Supervised Learning for CAPTCHA.  The 23th  Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD 2019**). [Paper](https://link.springer.com/chapter/10.1007/978-3-030-16145-3_27)
+* [Learning to Predict Charges for Legal Judgment via Self-Attentive Capsule Network](https://ecai2020.eu/papers/98_paper.pdf), Yuquan Le\*, **Congqing He\***, Meng Chen, Youzheng Wu, Bowen Zhou. *ECAI 2020* (CCF B, Acceptance rate: 26.8%)
+  (\*Co-first/Corresponding authors)
 
-* ***Congqing He***,  Li Peng, Yuquan Le, Jiawei He, and Xiangyu Zhu. SECaps: A Sequence Enhanced Capsule Model for Charge Prediction.  The 28th International Conference on Artificial Neural Networks (**ICANN 2019**). [Paper](https://link.springer.com/chapter/10.1007/978-3-030-30490-4_19)
+* [Dynamically Weighted Multi-View Semi-Supervised Learning for CAPTCHA](https://link.springer.com/chapter/10.1007/978-3-030-16145-3_27), **Congqing He**, Li Peng, Yuquan Le, Jiawei He. *PAKDD 2019* (CCF C, Acceptance rate: 24.1%)
+
+* [SECaps: A Sequence Enhanced Capsule Model for Charge Prediction](https://link.springer.com/chapter/10.1007/978-3-030-30490-4_19), **Congqing He**, Li Peng, Yuquan Le, Jiawei He, Xiangyu Zhu. *ICANN 2019* (CCF C)
+
+
 
 
 
