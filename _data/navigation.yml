@@ -4,7 +4,7 @@ main:
     url: "/#about-me"
 
   - title: "C++ Course"
-    url: "/cpp/"
+    url: "/cpp-course/"
 
   - title: "News"
     url: "/#-news"
